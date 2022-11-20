@@ -65,17 +65,17 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="bitmex-icon-envelope"></i><span>Email: </span><a href="mailto:support@zengoinvest.com" target="new" style="color: #eee;">support@zengoinvest.com</a></p>
+                    <p><i class="bitmex-icon-envelope"></i><span>Email: </span><a href="mailto:support@trustinvestmenthubs.com" target="new" style="color: #eee;">support@trustinvestmenthubs.com</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
             <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="bitmex-icon-phone-call"></i><span> Telegram: </span><a href="https://t.me/Customer247service" style="color: #eee;">+1 (321) 599-4827</a></p>
+                    <p><i class="bitmex-icon-phone-call"></i><span> Telegram: </span><a href="https://t.me/Customer247service" style="color: #eee;">+1(321)5994827</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
             <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="https://wa.me/qr/3GUKI3YUJY35C1" target="new" style="color: #eee;">+1(860)852‑7017</a></p>
+                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="https://wa.me/qr/BOODCXKN5HUIB1" target="new" style="color: #eee;">+1(501)3025133</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
@@ -158,9 +158,11 @@
 <section class="hidden-sidebar side-navigation">
     <a href="#" class="close-button side-navigation-close-btn fa fa-times"></a><!-- /.close-button -->
     <div class="sidebar-content">
-        <h3>zengoinvest.com</h3>
+        <h3>trustinvestmenthubs.com</h3>
         <p>Trust InvestmentHubs is an automated platform for crypto & forex trading that is focused on delivering stress-free services to its customers by using our team of professional brokers to perform trading options at their best.</p>
-        <p class="contact-info">info@zengoinvest.com <br /> +1(860)852‑7017</p><!-- /.contact-info -->
+        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(501)3025133</p>
+        <br><a href="https://t.me/Customer247service">Telegram</a>
+        <!-- /.contact-info -->
         <div class="social">
             <a href="https://www.twitter.com/zengo" class="fa fa-twitter"></a><!--
         	--><a href="https://www.linkedin.com/company/zengo" class="fa fa-linkedin"></a>
@@ -168,12 +170,27 @@
     </div><!-- /.sidebar-content -->
 </section><!-- /.hidden-sidebar -->
 
+{{--<script  type="text/javascript">  var config = {    phone :" 1(501)3025133",    call :"Message Us",    position :"ww-left",    size : "ww-normal",    text : "",    type: "ww-standard",    brand: "",    subtitle: "",    welcome: ""  };  var proto = document.location.protocol, host = "cloudfront.net", url = proto + "//d3kzab8jj16n2f." + host;    var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/v2/main.js";    s.onload = function () { tmWidgetInit(config) };    var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);</script>0--}}
 
-
-{{--<a href="https://wa.me/qr/3GUKI3YUJY35C1" target="new" class="cus-float">--}}
+{{--<a href="https://wa.me/qr/BOODCXKN5HUIB1" target="new" class="cus-float">--}}
 {{--    <i class="fa fa-whatsapp my-float"></i>--}}
 {{--</a>--}}
-
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+1(501)3025133", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
 
 <div class="scroll-to-top scroll-to-target" data-target="html"><i class="fa fa-angle-up"></i></div>
 

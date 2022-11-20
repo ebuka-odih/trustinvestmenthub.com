@@ -601,17 +601,17 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="bitmex-icon-envelope"></i><span>Email: </span><a href="mailto:support@zengofx.com" target="new" style="color: #eee;">support@zengoinvest.com</a></p>
+                    <p><i class="bitmex-icon-envelope"></i><span>Email: </span><a href="mailto:support@trustinvestmenthubs.com" target="new" style="color: #eee;">support@trustinvestmenthubs.com</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
             <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="bitmex-icon-phone-call"></i><span> Telegram: </span><a href="" style="color: #eee;">+1 (713) 489-4274</a></p>
+                    <p><i class="bitmex-icon-phone-call"></i><span> Telegram: </span><a href="" style="color: #eee;">+1(321)5994827</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
             <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="" target="new" style="color: #eee;"> +1 (860)852‑7017</a></p>
+                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="" target="new" style="color: #eee;"> +1(501)3025133</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
@@ -784,6 +784,7 @@
     </div><!-- /.thm-container -->
 </footer><!-- /.site-footer -->
 
+
 <div class="footer-bottom">
     <div class="thm-container clearfix">
         <div class="pull-left copy-text">
@@ -831,6 +832,22 @@
 
 <div class="scroll-to-top scroll-to-target" data-target="html" style="display: block;"><i class="fa fa-angle-up"></i></div>
 
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+1(501)3025133", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "left", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
 <script src="https://zengofx.com/new-assets/js/jquery.js"></script>
 
 {{--<script src="https://zengofx.com/new-assets/js/bootstrap.min.js"></script>--}}
@@ -850,7 +867,6 @@
 {{--<script src="https://zengofx.com/new-assets/js/custom.js"></script>--}}
 <script src="{{ asset('front/new-assets/js/custom.js') }}"></script>
 <script src="{{ asset('LIVECHAT.js') }}" async></script>
-
 <!-- Mirrored from zengofx.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Sep 2020 20:33:14 GMT -->
 </body>
 </html>
