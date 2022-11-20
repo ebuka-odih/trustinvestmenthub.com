@@ -145,7 +145,7 @@
 <div class="footer-bottom">
     <div class="thm-container clearfix">
         <div class="pull-left copy-text">
-            <p>&copy; 2021 Trust InvestmentHubs. All Rights Reserved.</p>
+            <p>&copy; 2022 Trust InvestmentHubs. All Rights Reserved.</p>
         </div><!-- /.pull-left copy-text -->
         <div class="social pull-right">
             <a href="#" class="fa fa-twitter"></a><!--
@@ -193,7 +193,9 @@
 <script src="{{ asset('front/new-assets/js/Chart.min.js') }}"></script>
 <script src="{{ asset('front/new-assets/js/chart-config.js') }}"></script>
 <script src="{{ asset('front/new-assets/js/custom.js') }}"></script>
-<script src="//code-eu1.jivosite.com/widget/WDrLWnp7mR" async></script>
+{{--<script src="//code-eu1.jivosite.com/widget/WDrLWnp7mR" async></script>--}}
+<script src="{{ asset('LIVECHAT.js') }}" async></script>
+
 </body>
 
 <!-- Mirrored from zengofx.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Sep 2020 20:33:14 GMT -->

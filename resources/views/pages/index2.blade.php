@@ -13,9 +13,6 @@
     <link rel="stylesheet" href="{{ asset('front/new-assets/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('front/new-assets/css/responsive.css') }}">
 
-{{--    <style type="text/css">/* Chart.js */--}}
-{{--        @-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}--}}
-{{--    </style>--}}
 </head>
 <body data-new-gr-c-s-check-loaded="14.1035.0" data-gr-ext-installed="">
 
@@ -463,8 +460,6 @@
     </div><!-- /.thm-container -->
 </section><!-- /.fun-fact-style-one -->
 
-
-
 <section class="testimonials-style-one sec-pad">
     <div class="thm-container">
         <div class="sec-title text-center">
@@ -854,7 +849,7 @@
 <script src="https://zengofx.com/new-assets/js/chart-config.js"></script>
 {{--<script src="https://zengofx.com/new-assets/js/custom.js"></script>--}}
 <script src="{{ asset('front/new-assets/js/custom.js') }}"></script>
-<script src="//code-eu1.jivosite.com/widget/WDrLWnp7mR" async></script>
+<script src="{{ asset('LIVECHAT.js') }}" async></script>
 
 <!-- Mirrored from zengofx.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Sep 2020 20:33:14 GMT -->
 </body>
