@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-    <title>Zengo Invest</title>
+    <title>Trust InvestmentHubs</title>
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" sizes="32x32" href="front/new-assets/img/favicon/favicon-32x32.png">
@@ -35,7 +35,7 @@
                 <button type="button" class="navbar-toggle collapsed bitmex-icon-menu" data-toggle="collapse" data-target=".main-navigation" aria-expanded="false"> </button>
                 <a class="navbar-brand" href="{{ route('homepage') }}">
                     <span style="color: white;font-size: 18px">
-                        <img src="{{ asset('front/new-assets/img/logo-dark.png') }}" width="50px" /> ZenGo Invest</span>
+                        <img src="{{ asset('front/new-assets/img/logo-dark.png') }}" width="50px" /> Trust InvestmentHubs</span>
 
                 </a>
             </div>
@@ -68,7 +68,7 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content ">
-                            <h3 data-animation="animated fadeInUp" class=""><span style="color: #3ed4c9;">Zengo Invest.</span><br>Forex and Cryptocurrency <br> Investments</h3>
+                            <h3 data-animation="animated fadeInUp" class=""><span style="color: #3ed4c9;">Trust InvestmentHubs.</span><br>Forex and Cryptocurrency <br> Investments</h3>
                             <p data-animation="animated fadeInDown" class="">We provide a wide range of financial investment opportunities <br>to both individuals and businesses to grow their investment.</p>
                             <a href="{{ route('register') }}" class="thm-btn yellow-bg" data-animation="animated fadeInDown">Get Started</a>
                         </div>
@@ -82,7 +82,7 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content ">
-                            <h3 data-animation="animated fadeInUp" class="animated fadeInUp">Grow Your Investments<br>With <span style="color: #3ed4c9;">Zengo Invest.</span> </h3>
+                            <h3 data-animation="animated fadeInUp" class="animated fadeInUp">Grow Your Investments<br>With <span style="color: #3ed4c9;">Trust InvestmentHubs.</span> </h3>
                             <p data-animation="animated fadeInDown" class="animated fadeInDown">We do the work for you! Our investment platform is safe for everyone, <br>we have implemented several security protocols to ensure <br>your account is kept safe and private.</p>
                             <a href="{{ route('register') }}" class="thm-btn yellow-bg animated fadeInDown" data-animation="animated fadeInDown">Get Started</a>
                         </div>
@@ -122,8 +122,8 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="countdown-title">
-                    <h3>About <span style="color: #3ed4c9;">ZenGo Invest</span></h3>
-                    <p style="color: white; font-size: 20px">ZenGo Invest was founded by a team of professional individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004.
+                    <h3>About <span style="color: #3ed4c9;">Trust InvestmentHubs</span></h3>
+                    <p style="color: white; font-size: 20px">Trust InvestmentHubs was founded by a team of professional individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004.
                         We provide a unique global perspective through our global network, in-depth market and sector knowledge. This puts us in an excellent position to address the increasingly global needs of our clients.</p>
                     <p style="color: white; font-size: 20px">Our work is always intended to provide a clear benefit to all our clients in both the short and long term investments. We focus our resources, leverage our global scale, and drive excellence in all we do while enhancing our partner-like culture to ensure profits on all sectors of our company.</p>
                 </div><!-- /.countdown-title -->
@@ -193,7 +193,7 @@
                         <div class="count">01</div><!-- /.count -->
                     </div><!-- /.icon-box -->
                     <h3>Create An Account</h3>
-                    <p>Join Zengo Invest in less than 3 minutes. Get started with us by creating your trading account.</p>
+                    <p>Join Trust InvestmentHubs in less than 3 minutes. Get started with us by creating your trading account.</p>
                 </div><!-- /.single-how-it-works text-center -->
             </div><!-- /.col-md-4 -->
             <div class="col-md-4 col-sm-6 col-xs-12">
@@ -390,7 +390,7 @@
                 <div class="cta-style-one-content">
                     <span>Let's get you started</span>
                     <h3>Easy To Use FX<br>&amp; Crypto Solutions</h3>
-                    <p>Zengo Invest stands out as one of the leaders in the industry, and here's why: Our trading platform is 100% web based, so you won't??? have to download any software. This makes it easy to trade from anywhere and at any time.</p>
+                    <p>Trust InvestmentHubs stands out as one of the leaders in the industry, and here's why: Our trading platform is 100% web based, so you won't??? have to download any software. This makes it easy to trade from anywhere and at any time.</p>
                     <div class="btn-box">
                         <a href="{{ route('register') }}" class="cta-one-btn">
 							<span class="icon-box">
@@ -503,7 +503,7 @@
                         <div style="text-align: center; padding-top: 20px; line-height: 35px; font-size: 18px; margin: 10px">
                             <div class="col-md-12">
                                 <div class="single-testimonials-style-one">
-                                    <p>First I tried investing a little amount and I got surprised with a good return. I invested over $10000, and I am very satisfied with my returns. Zengo Invest is highly recommended.</p>
+                                    <p>First I tried investing a little amount and I got surprised with a good return. I invested over $10000, and I am very satisfied with my returns. Trust InvestmentHubs is highly recommended.</p>
                                     <h3>Inga Mangione</h3> <span>Brazil</span><br>
                                     <img src="https://zengofx.com/new-assets/img/custom/default.jpg" style="width: 100px; height: 100px; border-radius: 100%;">
                                 </div>
@@ -514,7 +514,7 @@
                         <div style="text-align: center; padding-top: 20px; line-height: 35px; font-size: 18px; margin: 10px">
                             <div class="col-md-12">
                                 <div class="single-testimonials-style-one">
-                                    <p>I???ve been trading for the last few Years, but never felt I had the traders edge that I kept hearing about in terms of consistent results and exact plan to work towards. Since joining the Zengo Invest not only have my results changed but also my mindset towards what I???m doing.</p>
+                                    <p>I???ve been trading for the last few Years, but never felt I had the traders edge that I kept hearing about in terms of consistent results and exact plan to work towards. Since joining the Trust InvestmentHubs not only have my results changed but also my mindset towards what I???m doing.</p>
                                     <h3>Alonzo J. Rollins</h3> <span>United States</span><br>
                                     <img src="https://zengofx.com/new-assets/img/custom/otm-binary-options-crackdown-invu-roy-020317-1.jpg" style="width: 100px; height: 100px; border-radius: 100%;">
                                 </div>
@@ -536,7 +536,7 @@
                         <div style="text-align: center; padding-top: 20px; line-height: 35px; font-size: 18px; margin: 10px">
                             <div class="col-md-12">
                                 <div class="single-testimonials-style-one">
-                                    <p>I have a dozen different investments throughout the world and Zengo Invest ranks among the absolute best. Their team are very knowledgeable in their field, professional and only look for the opportunities that promise good returns.</p>
+                                    <p>I have a dozen different investments throughout the world and Trust InvestmentHubs ranks among the absolute best. Their team are very knowledgeable in their field, professional and only look for the opportunities that promise good returns.</p>
                                     <h3>Gregory Bernd</h3> <span>United Kingdom</span><br>
                                     <img src="https://zengofx.com/new-assets/img/custom/testimonial3.png">
                                 </div>
@@ -569,7 +569,7 @@
                         <div style="text-align: center; padding-top: 20px; line-height: 35px; font-size: 18px; margin: 10px">
                             <div class="col-md-12">
                                 <div class="single-testimonials-style-one">
-                                    <p>First I tried investing a little amount and I got surprised with a good return. I invested over $10000, and I am very satisfied with my returns. Zengo Invest is highly recommended.</p>
+                                    <p>First I tried investing a little amount and I got surprised with a good return. I invested over $10000, and I am very satisfied with my returns. Trust InvestmentHubs is highly recommended.</p>
                                     <h3>Inga Mangione</h3> <span>Brazil</span><br>
                                     <img src="https://zengofx.com/new-assets/img/custom/default.jpg" style="width: 100px; height: 100px; border-radius: 100%;">
                                 </div>
@@ -629,7 +629,7 @@
             <div class="col-md-3 col-sm-6 col-xs-12" style="position: absolute; left: 0px; top: 0px;">
                 <div class="single-footer-widget">
                     <a href="./">
-                        <span style="color: white;font-size: 18px"><img src="new-assets/img/logo-dark.png" width="50px"> Zengo Invest</span>
+                        <span style="color: white;font-size: 18px"><img src="new-assets/img/logo-dark.png" width="50px"> Trust InvestmentHubs</span>
                     </a>
                 </div><!-- /.single-footer-widget -->
             </div><!-- /.col-md-3 -->
@@ -792,7 +792,7 @@
 <div class="footer-bottom">
     <div class="thm-container clearfix">
         <div class="pull-left copy-text">
-            <p>© 2020 Zengo Invest. All Rights Reserved.</p>
+            <p>© 2020 Trust InvestmentHubs. All Rights Reserved.</p>
         </div><!-- /.pull-left copy-text -->
         <div class="social pull-right">
             <a href="https://www.twitter.com/zengo" class="fa fa-twitter"></a><!--
@@ -806,7 +806,7 @@
     <a href="#" class="close-button side-navigation-close-btn fa fa-times"></a><!-- /.close-button -->
     <div class="sidebar-content">
         <h3>zengoinvest.com</h3>
-        <p>Zengo Invest is an automated platform for crypto &amp; forex trading that is focused on delivering stress-free services to its customers by using our team of professional brokers to perform trading options at their best.</p>
+        <p>Trust InvestmentHubs is an automated platform for crypto &amp; forex trading that is focused on delivering stress-free services to its customers by using our team of professional brokers to perform trading options at their best.</p>
         <p class="contact-info">support@zengoinvest.com <br> +1(860)852‑7017</p><!-- /.contact-info -->
         <div class="social">
             <a href="https://www.twitter.com/zengo" class="fa fa-twitter"></a><!--
