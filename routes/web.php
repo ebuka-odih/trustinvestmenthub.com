@@ -13,10 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/', 'pages.index')->name('index');
-Route::view('/terms-of-service', 'pages.terms')->name('terms');
-Route::view('/privacy-and-policies', 'pages.privacy')->name('privacy');
-Route::view('admin/login', 'auth.admin');
+Route::view('/', 'pages.index2')->name('homepage');
+Route::view('about', 'pages.about')->name('about');
+Route::view('plans', 'pages.plans')->name('plans');
 
 Auth::routes(['verify'=> true]);
 //include 'admin.php';
