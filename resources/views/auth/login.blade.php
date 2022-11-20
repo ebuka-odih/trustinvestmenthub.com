@@ -48,7 +48,7 @@
 
                 <div style="background: #0B65C6; width: 100%; padding: 10px">
                     <center>
-                        <a href="{{ route('index') }}">
+                        <a href="{{ route('homepage') }}">
                             <img src="{{ asset('assets/images/logo.png') }}" width="200px">
                         </a>
                     </center>
