@@ -17,6 +17,10 @@ Route::view('/', 'pages.index2')->name('homepage');
 Route::view('about', 'pages.about')->name('about');
 Route::view('plans', 'pages.plans')->name('plans');
 
+Route::get('contact','ContactFormController@create')->name('contact.create');
+Route::post('contact-us/store','ContactFormController@store')->name('contact.store');
+
+
 Auth::routes(['verify'=> true]);
 //include 'admin.php';
 Route::get('/home', 'HomeController@index')->name('home');
