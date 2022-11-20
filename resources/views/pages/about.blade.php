@@ -18,8 +18,8 @@
         <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <div class="countdown-title">
-                    <h3>About <span style="color: #3ed4c9;">ZenGo Invest</span></h3>
-                    <p>ZenGo Invest was founded by a team of professional individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004.
+                    <h3>About <span style="color: #3ed4c9;">Trust InvestmentHubs</span></h3>
+                    <p>Trust InvestmentHubs was founded by a team of professional individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004.
                         We provide a unique global perspective through our global network, in-depth market and sector knowledge. This puts us in an excellent position to address the increasingly global needs of our clients.</p>
                     <p>Our work is always intended to provide a clear benefit to all our clients in both the short and long term investments. We focus our resources, leverage our global scale, and drive excellence in all we do while enhancing our partner-like culture to ensure profits on all sectors of our company.</p>
                 </div><!-- /.countdown-title -->

@@ -125,7 +125,7 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content ">
-                            <h3 data-animation="animated fadeInUp"><span style="color: #3ed4c9;">ZenGo Invest.</span><br />Forex and Cryptocurrency <br /> Investments</h3>
+                            <h3 data-animation="animated fadeInUp"><span style="color: #3ed4c9;">Trust InvestmentHubs.</span><br />Forex and Cryptocurrency <br /> Investments</h3>
                             <p data-animation="animated fadeInDown">We provide a wide range of financial investment opportunities <br>to both individuals and businesses to grow their investment.</p>
                             <a href="{{ route('register') }}" class="thm-btn yellow-bg" data-animation="animated fadeInDown">Get Started</a>
                         </div>
@@ -139,7 +139,7 @@
                 <div class="thm-container">
                     <div class="box valign-middle">
                         <div class="content ">
-                            <h3 data-animation="animated fadeInUp">Grow Your Investments<br />With <span style="color: #3ed4c9;">ZenGo Invest.</span> </h3>
+                            <h3 data-animation="animated fadeInUp">Grow Your Investments<br />With <span style="color: #3ed4c9;">Trust InvestmentHubs.</span> </h3>
                             <p data-animation="animated fadeInDown">We do the work for you! Our investment platform is safe for everyone, <br>we have implemented several security protocols to ensure <br>your account is kept safe and private.</p>
                             <a href="{{ route('register') }}" class="thm-btn yellow-bg" data-animation="animated fadeInDown">Get Started</a>
                         </div>
@@ -179,8 +179,8 @@
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="countdown-title">
-                    <h3>About <span style="color: #3ed4c9;">ZenGo Invest</span></h3>
-                    <p style="color: white; font-size: 20px">ZenGo Invest was founded by a team of professional individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004.
+                    <h3>About <span style="color: #3ed4c9;">Trust InvestmentHubs</span></h3>
+                    <p style="color: white; font-size: 20px">Trust InvestmentHubs was founded by a team of professional individuals comprising of experts from the banking, finance and technology sectors, which are multi-billion dollars industries, in 2004.
                         We provide a unique global perspective through our global network, in-depth market and sector knowledge. This puts us in an excellent position to address the increasingly global needs of our clients.</p>
                     <p style="color: white; font-size: 20px">Our work is always intended to provide a clear benefit to all our clients in both the short and long term investments. We focus our resources, leverage our global scale, and drive excellence in all we do while enhancing our partner-like culture to ensure profits on all sectors of our company.</p>
                 </div><!-- /.countdown-title -->
@@ -250,7 +250,7 @@
                         <div class="count">01</div><!-- /.count -->
                     </div><!-- /.icon-box -->
                     <h3>Create An Account</h3>
-                    <p style="color: black">Join ZenGo Invest in less than 3 minutes. Get started with us by creating your trading account.</p>
+                    <p style="color: black">Join Trust InvestmentHubs in less than 3 minutes. Get started with us by creating your trading account.</p>
                 </div><!-- /.single-how-it-works text-center -->
             </div><!-- /.col-md-4 -->
             <div class="col-md-4 col-sm-6 col-xs-12">
@@ -446,7 +446,7 @@
                 <div class="cta-style-one-content">
                     <span>Let's get you started</span>
                     <h3>Easy To Use FX<br />& Crypto Solutions</h3>
-                    <p>ZenGo Invest stands out as one of the leaders in the industry, and here's why: Our trading platform is 100% web based, so you won???t have to download any software. This makes it easy to trade from anywhere and at any time.</p>
+                    <p>Trust InvestmentHubs stands out as one of the leaders in the industry, and here's why: Our trading platform is 100% web based, so you won???t have to download any software. This makes it easy to trade from anywhere and at any time.</p>
                     <div class="btn-box">
                         <a href="{{ route('register') }}"  class="cta-one-btn">
 							<span class="icon-box">
