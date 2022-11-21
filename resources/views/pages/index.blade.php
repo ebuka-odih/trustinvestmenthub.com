@@ -5,6 +5,13 @@
             background-image: linear-gradient(to bottom right,#0b65c6 50%,#105BAA 100%);
             color: #fff
         }
+        .row2 {
+            display: flex;
+            flex-wrap: wrap;
+            margin-right: -20px;
+            margin-left: -20px;
+        }
+
     </style>
 
     <div id="content" class="site-content">
@@ -100,13 +107,43 @@
                     <div class="col-md-6">
                         <h1 style="color: white">The most trusted & secure crypto wallet</h1>
                         <div class="home_header_subtext mb-5">Buy, store, collect NFTs, exchange & earn crypto. Join 25 million+ people using Trust Wallet.</div>
+                       <div class="row mb-4">
 
+                               <div class="col-lg-4 col-12 mb-3">
+                                   <a href="https://apps.apple.com/app/apple-store/id1288339409?mt=8">
+                                   <img  src="{{ asset('images/apple.png') }}" alt="">
+                                   </a>
+                               </div>
+
+
+                           <div class="col-lg-4 col-12 mb-3">
+                               <a href="https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&amp;referrer=utm_source%3Dwebsite">
+                                   <img src="{{ asset('images/andriod.svg') }}" alt="">
+                               </a>
+                           </div>
+                           <div class="col-lg-4 col-12 mb-3">
+                               <a href="https://trustwallet.com/dl/apk">
+                                   <img src="{{ asset('images/apk.png') }}" alt="">
+                               </a>
+                           </div>
+                           <div class="col-lg-4 col-12 mb-3">
+                               <a href="https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph">
+                                   <img src="{{ asset('images/chrome.png') }}" alt="">
+                               </a>
+
+                           </div>
+
+                       </div>
                     </div>
-                    <div class="col-md-6 text-right imageinrighthead">
-                        <img width="400" height="596" src="{{ asset('images/home_hero.png') }}" alt="" data-lazy-src="https://www.eightcap.com/en/wp-content/uploads/sites/11/2021/07/first-slider_one-phone02_8cap_phone.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img width="400" height="596" src="wp-content/uploads/sites/11/2021/07/first-slider_one-phone02_8cap_phone.png" alt=""/></noscript>
+                    <div class="col-md-6 text-right ">
+                        <img width="400" height="596" src="{{ asset('images/home_hero.png') }}" alt="" data-lazy-src="https://www.eightcap.com/en/wp-content/uploads/sites/11/2021/07/first-slider_one-phone02_8cap_phone.png" data-ll-status="loaded" class="entered lazyloaded">
+                        <noscript>
+                            <img width="400" height="596" src="wp-content/uploads/sites/11/2021/07/first-slider_one-phone02_8cap_phone.png" alt=""/>
+                        </noscript>
                     </div>
-                    
                 </div>
+
+
 
 
             </div>
