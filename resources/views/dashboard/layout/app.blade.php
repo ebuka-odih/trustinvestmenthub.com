@@ -38,7 +38,7 @@
 
 <body style="font-family: 'Roboto', sans-serif;" oncontextmenu="return fals">
 <nav class="py-4" style="background-color: #105BAA;">
-    <a class="alt_logolink" href="{{ route('index') }}"><img src="{{ asset('logo-dark.png') }}" style="padding-left: 10px; margin-right: 5px; height: 30px;"><b style="color: white; font-size: 18px;">Trust Investments</b></a>
+    <a class="alt_logolink" href="{{ route('homepage') }}"><img src="{{ asset('logo-dark.png') }}" style="padding-left: 10px; margin-right: 5px; height: 30px;"><b style="color: white; font-size: 18px;">Trust Investments</b></a>
     <!-- LOG OUT -->
     <a href="{{ route('logout') }}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();" style="color: white; background-color: #105BAA; font-size: 14px; font-weight: bold; float: right; margin-right: 20px; padding: 5px 10px; border-radius: 5px; border: 2px solid #fff;">Sign Out</a>
