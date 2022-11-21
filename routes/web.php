@@ -2,18 +2,18 @@
 
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
 
-Route::view('/', 'pages.index2')->name('homepage');
+Route::view('/', 'pages.index')->name('homepage');
+Route::view('forex_trading', 'pages.forex_trading')->name('forex_trading');
+Route::view('crypto', 'pages.crypto')->name('crypto');
+Route::view('spreads', 'pages.spreads')->name('spreads');
+Route::view('swap', 'pages.swap')->name('swap');
+Route::view('account_type', 'pages.account_type')->name('account_type');
+Route::view('meta4', 'pages.meta4')->name('meta4');
+Route::view('meta5', 'pages.meta5')->name('meta5');
+Route::view('capital', 'pages.capital')->name('capital');
+Route::view('fxblue', 'pages.fxblue')->name('fxblue');
+
 Route::view('about', 'pages.about')->name('about');
 Route::view('plans', 'pages.plans')->name('plans');
 
