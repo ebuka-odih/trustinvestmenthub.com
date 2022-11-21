@@ -40,13 +40,7 @@
         })(window,document.documentElement,'async-hide','dataLayer',500,
             {'GTM-KWVTQQM':true});</script>
 
-    <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            'www.googletagmanager.com/gtm54455445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
-        })(window,document,'script','dataLayer','GTM-KWVTQQM');</script>
-    <!-- End Google Tag Manager -->
+
 
     <!-- TrustBox script -->
     <script data-minify="1" type="text/javascript" src="wp-content/cache/min/11/bootstrap/v5/tp.widget.bootstrap.minedf0edf0.js?ver=1650367832" async></script>
@@ -254,7 +248,9 @@
             width: 20px;
             float: left;
         }		</style>
-    <noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><script>
+    <noscript>
+        <style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+    <script>
         /*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
         (function(w){"use strict";if(!w.loadCSS){w.loadCSS=function(){}}
             var rp=loadCSS.relpreload={};rp.support=(function(){var ret;try{ret=w.document.createElement("link").relList.supports("preload")}catch(e){ret=!1}
@@ -265,6 +261,33 @@
             if(typeof exports!=="undefined"){exports.loadCSS=loadCSS}
             else{w.loadCSS=loadCSS}}(typeof global!=="undefined"?global:this))
     </script>
+
+    <style>
+        .header {
+            position: absolute;
+            padding: 0;
+            left: 0;
+            right: 0;
+            margin: 0;
+            background-color: #0b65c6;
+            color: white;
+            border: 0;
+            box-shadow: none;
+            z-index: 999;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-transition: background 0.5s ease-in-out,opacity 0.5s ease;
+            -moz-transition: background 0.5s ease-in-out,opacity 0.5s ease;
+            transition: background 0.5s ease-in-out,opacity 0.5s ease;
+        }
+        .menu21 ul.menu li a {
+            transition: 0.3s;
+            color: #ffffff;
+            font-family: 'montbold',sans-serif;
+            height: 100%;
+            font-size: 15px;
+        }
+    </style>
 
 </head>
 <body class="home page-template page-template-page-templates page-template-template-home page-template-page-templatestemplate-home-php page page-id-5 ">
