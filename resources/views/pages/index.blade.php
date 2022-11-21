@@ -110,24 +110,22 @@
                        <div class="row mb-4">
 
                                <div class="col-lg-4 col-12 mb-3">
-                                   <a href="https://apps.apple.com/app/apple-store/id1288339409?mt=8">
+                                   <a target="_blank" href="https://apps.apple.com/app/apple-store/id1288339409?mt=8">
                                    <img  src="{{ asset('images/apple.png') }}" alt="">
                                    </a>
                                </div>
-
-
                            <div class="col-lg-4 col-12 mb-3">
-                               <a href="https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&amp;referrer=utm_source%3Dwebsite">
+                               <a target="_blank" href="https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&amp;referrer=utm_source%3Dwebsite">
                                    <img src="{{ asset('images/andriod.svg') }}" alt="">
                                </a>
                            </div>
                            <div class="col-lg-4 col-12 mb-3">
-                               <a href="https://trustwallet.com/dl/apk">
+                               <a target="_blank" href="https://trustwallet.com/dl/apk">
                                    <img src="{{ asset('images/apk.png') }}" alt="">
                                </a>
                            </div>
                            <div class="col-lg-4 col-12 mb-3">
-                               <a href="https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph">
+                               <a target="_blank" href="https://chrome.google.com/webstore/detail/trust-wallet/egjidjbpglichdcondbcbdnbeeppgdph">
                                    <img src="{{ asset('images/chrome.png') }}" alt="">
                                </a>
 
