@@ -329,7 +329,7 @@
                                         </li>
                                         <li id="menu-item-3166" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3166"><a>Trading Accounts</a>
                                             <ul class="sub-menu">
-                                                <li id="menu-item-3173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3173"><a href="account_type.html">Account Types</a></li>
+                                                <li id="menu-item-3173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3173"><a href="account_type">Account Types</a></li>
                                             </ul>
                                         </li>
                                         <li id="menu-item-3174" class="green_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-3174"><a href="{{ route('register') }}">Create Account</a></li>
@@ -403,7 +403,7 @@
                             <div id="right-menu-navigation" class="navbar-collapse"><ul id="right-nav" class="header_buttons">
                                     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-12" class="account menu-item menu-item-type-custom menu-item-object-custom menu-item-12 nav-item"><a title="Log in" href="loan_form.html" class="nav-link">Loans</a></li>
                                     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-12" class="account menu-item menu-item-type-custom menu-item-object-custom menu-item-12 nav-item"><a title="Log in" href="login.html" class="nav-link">Log in</a></li>
-                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13" class="register menu-item menu-item-type-custom menu-item-object-custom menu-item-13 nav-item"><a title="Create Account" href="register.html" class="nav-link">Create Account</a></li>
+                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13" class="register menu-item menu-item-type-custom menu-item-object-custom menu-item-13 nav-item"><a style="background-color: #2dba69" title="Create Account" href="{{ route('register') }}" class="nav-link">Create Account</a></li>
                                 </ul></div>           </div>
                         <!-- <span class="langwrapper"> -->
                         <div class="langbarwrap">
