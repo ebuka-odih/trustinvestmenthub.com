@@ -487,7 +487,7 @@
                     <section class="widget widget_text">
                         <h4 class="widget-title">Phone</h4>
                         <div class="textwidget ip_phone">
-                            <span class="vanuatu_phone">+13239900027</span>
+                            <span class="vanuatu_phone">+1(501)3025133</span>
 
                         </div>
                     </section>
@@ -495,15 +495,15 @@
                         <h4 class="widget-title">E-Mail</h4>
                         <div class="textwidget ip_mail">
                             <span class="vanuatu_email">
-                                <a href="#">support@metricstrade.com</a>
+                                <a href="mailto:support@trustinvestmenthubs.com">support@trustinvestmenthubs.com</a>
                             </span>
 
                             <span class="fca_email">
-                                <a href="#">support@metricstrade.com</a>
+                                <a href="mailto:support@trustinvestmenthubs.com">support@trustinvestmenthubs.com</a>
                             </span>
 
                             <span class="asic_email">
-                                <a href="#">support@metricstrade.com</a>
+                                <a href="mailto:support@trustinvestmenthubs.com">support@trustinvestmenthubs.com</a>
                             </span>
                         </div>
                     </section>
