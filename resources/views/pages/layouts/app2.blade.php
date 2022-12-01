@@ -449,7 +449,7 @@
                     <section id="nav_menu-19" class="widget widget_nav_menu"><h4 class="widget-title">Trading Instruments</h4><div class="menu-top-menu-markets-to-trade-container"><ul id="menu-top-menu-markets-to-trade" class="menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="{{ route('forex_trading') }}">Forex</a></li>
 
                                 <li id="menu-item-3092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3092"><a href="{{ route('crypto') }}">Cryptocurrencies</a></li>
-                            </ul></div></section><section id="nav_menu-12" class="widget widget_nav_menu"><h4 class="widget-title">Trading Accounts</h4><div class="menu-top-menu-trading-accounts-container"><ul id="menu-top-menu-trading-accounts" class="menu"><li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="account_type.html">Account Types</a></li>
+                            </ul></div></section><section id="nav_menu-12" class="widget widget_nav_menu"><h4 class="widget-title">Trading Accounts</h4><div class="menu-top-menu-trading-accounts-container"><ul id="menu-top-menu-trading-accounts" class="menu"><li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="{{ route('account_type') }}">Account Types</a></li>
                             </ul></div></section>                    </div>
 
                 <div class="col-lg-3 col-sm-6">
@@ -457,7 +457,7 @@
 
 
                                 <li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="{{ route('faqs') }}">FAQs</a></li>
-                                <li id="menu-item-1039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href="contact">Contact Us</a></li>
+{{--                                <li id="menu-item-1039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href="contact">Contact Us</a></li>--}}
                             </ul></div></section><section id="nav_menu-15" class="widget widget_nav_menu"><h4 class="widget-title">Analysis &#038; Education</h4><div class="menu-top-menu-analysis-container"><ul id="menu-top-menu-analysis" class="menu"><li id="menu-item-554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="market_analysis.html">Analysis Overview</a></li>
                                 <li id="menu-item-555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-555"><a >CFD News</a></li>
 
