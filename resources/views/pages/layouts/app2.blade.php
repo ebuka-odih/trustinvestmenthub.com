@@ -458,10 +458,10 @@
 
                                 <li id="menu-item-1392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1392"><a href="{{ route('faqs') }}">FAQs</a></li>
 {{--                                <li id="menu-item-1039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href="contact">Contact Us</a></li>--}}
-                            </ul></div></section><section id="nav_menu-15" class="widget widget_nav_menu"><h4 class="widget-title">Analysis &#038; Education</h4><div class="menu-top-menu-analysis-container"><ul id="menu-top-menu-analysis" class="menu"><li id="menu-item-554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-554"><a href="market_analysis.html">Analysis Overview</a></li>
-                                <li id="menu-item-555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-555"><a >CFD News</a></li>
-
-                            </ul></div></section>                    </div>
+                            </ul></div>
+                    </section>
+                                      
+                </div>
 
 
                 <div class="col-lg-3 col-sm-6 footer-4">
@@ -492,7 +492,7 @@
                     <section class="widget widget_text">
                         <h4 class="widget-title">Office</h4>
                         <div class="textwidget ip_address">
-                            <span class="vanuatu_address"><p>      United States Of America</p>
+                            <span class="vanuatu_address"><p>1226 Broadway, New York, NY 10001, United States</p>
 </span>
 
                         </div>
