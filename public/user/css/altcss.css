@@ -1,0 +1,52 @@
+.alt_logolink:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+.userdashboard {
+    position: relative;
+    background-color: white;
+}
+.alt_sidenav {
+    background-color: #105BAA;
+    min-height: 700px;
+    padding-top: 50px;
+}
+.alt_dlinks {
+    display:  block;
+    padding: 20px 0;
+    color: #ffffff;
+}
+.alt_dlinks:hover {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.dash_links {
+    display: block;
+}
+.fa {
+    display: none;
+}
+@media screen and (max-width: 524px){
+    .fa {
+        display: block;
+    }
+    .dash_links {
+        display: none;
+    }
+}
+
+.right_display {
+    padding: 50px 0;
+   
+}
+#balance {
+    padding: 10px;
+    border: 1px solid #ffffff;
+    border-top-color: white;
+    border-radius: 200px;
+}
+
+.w_icons:hover {
+    font-weight: bold;
+}

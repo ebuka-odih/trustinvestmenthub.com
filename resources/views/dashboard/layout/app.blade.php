@@ -10,12 +10,13 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- ALT STYLE DOMAIN -->
-    <link href="https://unitrustinvest.com/trade/css/altcss.css" rel="stylesheet">
-    <link href="https://unitrustinvest.com/trade/style2.css" rel="stylesheet">
-    <link href="https://unitrustinvest.com/trade/alt/css/bootstrap.css" rel="stylesheet">
-    <link href="https://unitrustinvest.com/trade/alt/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://unitrustinvest.com/trade/alt/js/bootstrap.js" rel="stylesheet"></script>
-    <script src="https://unitrustinvest.com/trade/alt/js/bootstrap.min.js" rel="stylesheet"></script>
+    <link href="{{ asset('user/css/altcss.css') }}" rel="stylesheet">
+    <link href="{{ asset('user/css/style2.css') }}" rel="stylesheet">
+    <link href="{{ asset('user/css/bootstrap.css') }}" rel="stylesheet">
+    <link href="{{ asset('user/css/bootstrap.min.css') }}" rel="stylesheet">
+    <script src="{{ asset('user/js/bootstrap.js') }}" rel="stylesheet"></script>
+    <script src="{{ asset('user/js/bootstrap.min.js') }}" rel="stylesheet"></script>
+  
     <!-- END ALT STYLE DOMAIN -->
 
     <script>
