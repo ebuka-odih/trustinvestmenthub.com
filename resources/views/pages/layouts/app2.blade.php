@@ -469,7 +469,7 @@
                     <section class="widget widget_text">
                         <h4 class="widget-title">Phone</h4>
                         <div class="textwidget ip_phone">
-                            <span class="vanuatu_phone">+1(501)3025133</span>
+                            <span class="vanuatu_phone">+1(501)3934352</span>
 
                         </div>
                     </section>
@@ -577,7 +577,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1(501)3025133", // WhatsApp number
+            whatsapp: "+1(501)3934352", // WhatsApp number
             call_to_action: "Message us", // Call to action
             button_color: "#FF6550", // Color of button
             position: "left", // Position may be 'right' or 'left'
