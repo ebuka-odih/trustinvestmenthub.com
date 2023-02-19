@@ -75,7 +75,7 @@
             </div><!-- /.col-md-4 -->
             <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="https://wa.me/qr/BOODCXKN5HUIB1" target="new" style="color: #eee;">+1(501)3025133</a></p>
+                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="https://wa.me/qr/Q4REOJ7LFODHB1" target="new" style="color: #eee;">+1(501)3934352</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
@@ -160,7 +160,7 @@
     <div class="sidebar-content">
         <h3>trustinvestmenthubs.com</h3>
         <p>TradingPoolFX is an automated platform for crypto & forex trading that is focused on delivering stress-free services to its customers by using our team of professional brokers to perform trading options at their best.</p>
-        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(501)3025133</p>
+        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(501)3934352</p>
         <br><a href="https://t.me/Customer247service">Telegram</a>
         <!-- /.contact-info -->
         <div class="social">
@@ -172,14 +172,14 @@
 
 {{--<script  type="text/javascript">  var config = {    phone :" 1(501)3025133",    call :"Message Us",    position :"ww-left",    size : "ww-normal",    text : "",    type: "ww-standard",    brand: "",    subtitle: "",    welcome: ""  };  var proto = document.location.protocol, host = "cloudfront.net", url = proto + "//d3kzab8jj16n2f." + host;    var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/v2/main.js";    s.onload = function () { tmWidgetInit(config) };    var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);</script>0--}}
 
-{{--<a href="https://wa.me/qr/BOODCXKN5HUIB1" target="new" class="cus-float">--}}
+{{--<a href="https://wa.me/qr/Q4REOJ7LFODHB1" target="new" class="cus-float">--}}
 {{--    <i class="fa fa-whatsapp my-float"></i>--}}
 {{--</a>--}}
 <!-- GetButton.io widget -->
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1(501)3025133", // WhatsApp number
+            whatsapp: "+1(501)3934352", // WhatsApp number
             call_to_action: "Message us", // Call to action
             button_color: "#FF6550", // Color of button
             position: "left", // Position may be 'right' or 'left'
