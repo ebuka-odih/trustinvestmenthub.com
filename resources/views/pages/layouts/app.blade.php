@@ -75,7 +75,7 @@
             </div><!-- /.col-md-4 -->
             <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
                 <div class="single-footer-top">
-                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="https://wa.me/qr/Q4REOJ7LFODHB1" target="new" style="color: #eee;">+1(501)3934352</a></p>
+                    <p><i class="fa fa-whatsapp"></i><span>WhatsApp Only: </span><a href="https://wa.me/qr/Q4REOJ7LFODHB1" target="new" style="color: #eee;">+1(469)2857559</a></p>
                 </div><!-- /.single-footer-top -->
             </div><!-- /.col-md-4 -->
         </div><!-- /.row -->
@@ -160,7 +160,7 @@
     <div class="sidebar-content">
         <h3>trustinvestmenthubs.com</h3>
         <p>TradingPoolFX is an automated platform for crypto & forex trading that is focused on delivering stress-free services to its customers by using our team of professional brokers to perform trading options at their best.</p>
-        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(501)3934352</p>
+        <p class="contact-info">info@trustinvestmenthubs.com <br /> +1(469)2857559</p>
         <br><a href="https://t.me/Customer247service">Telegram</a>
         <!-- /.contact-info -->
         <div class="social">
@@ -179,7 +179,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+1(501)3934352", // WhatsApp number
+            whatsapp: "+1(469)2857559", // WhatsApp number
             call_to_action: "Message us", // Call to action
             button_color: "#FF6550", // Color of button
             position: "left", // Position may be 'right' or 'left'
